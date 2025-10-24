@@ -88,3 +88,8 @@ else
     fi
 fi
 
+
+#!/bin/bash
+#
+# This is my second Git Activity
+#
